@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="HEVC Video Extension Banner" width="100%">
+</p>
+
+
 # HEVC Video Extension
 Download the HEVC Video Extension for free without paying $0.99 on the Microsoft Store
 
