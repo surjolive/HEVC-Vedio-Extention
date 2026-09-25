@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="HEVC Video Extension Banner" width="100%">
+  <img src="banner.jpg" alt="HEVC Video Extension Banner" width="100%">
 </p>
 
 
